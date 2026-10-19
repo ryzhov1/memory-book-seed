@@ -105,3 +105,7 @@ status: draft
 
 - [[lopatino]], [[matrena-leonteva-gorkova]], [[sergey-zinovev]]
 - Контекст (погибшие и вернувшиеся уроженцы): `book/chapters/sergey-zinovev/context.md`
+
+## Уроженки Полянщины в семьях книги
+
+- Авдотья Фёдоровна Очкина — жена [[andrey-nikolaevich-ochkin-1899|Андрея Николаевича Очкина]], из Полянщины. Уточнение от Антона (внук), 19.10.2026. Девичья фамилия не сообщена.
